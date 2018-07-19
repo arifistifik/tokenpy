@@ -1,0 +1,12 @@
+{
+    "ARautoadd": true,
+    "ARautojoin": true,
+    "ARautoread": false,
+    "ARautoscan": false,
+    "ARbatas":{"on":true,"members":1},
+    "ARmessage": "http://line.me/ti/p/~arif.mh",
+    "ARmessage1": "Selamat datang...",
+    "ARreadMember": {},
+    "ARblacklist": {},
+    "ARreadPoint": {}
+}
